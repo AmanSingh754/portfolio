@@ -134,8 +134,8 @@ export default function App() {
           <SkillCard icon={Cpu} title="AI & Agentic Systems" desc="Agentic AI, LangGraph, LLM-based workflows" />
           <SkillCard icon={Cloud} title="Cloud" desc="Microsoft Azure, cloud fundamentals & deployment" />
           <SkillCard icon={Database} title="Backend" desc="Node.js, Express, MySQL, MongoDB" />
-          <SkillCard icon={Wrench} title="Tools" desc="Git, GitHub, VS Code, Postman" />
-          <SkillCard icon={BookOpen} title="CS Core" desc="DSA, OOPs, DBMS, Operating Systems" />
+          <SkillCard icon={Wrench} title="Tools" desc="Git, GitHub, VS Code, Postman ,Docker , Kubernetes" />
+          <SkillCard icon={BookOpen} title="CS Core" desc="DSA, OOPs, Computer Network DBMS, Operating Systems" />
         </div>
       </Section>
 

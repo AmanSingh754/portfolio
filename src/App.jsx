@@ -114,13 +114,13 @@ export default function App() {
       <Section id="about" title="About Me">
         <p className="text-gray-300 text-xl leading-relaxed">
           I am an MCA student and Software Developer Intern at iDatalytics with a
-          strong passion for full stack development, backend engineering, and
+          strong passion for full stack development, backend engineering , full project delievery, and
           AI-powered applications. I enjoy designing and building scalable,
           maintainable, and efficient systems that solve real-world problems.
         </p>
 
         <p className="text-gray-300 text-xl leading-relaxed mt-6">
-          I have qualified UGC NET and consistently balance academics with
+          I have qualified UGC NET and Assistant Professor and consistently balance academics with
           leadership, volunteering, and technical participation. These
           experiences have strengthened my communication, teamwork, adaptability,
           and problem-solving skills.
